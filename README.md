@@ -13,6 +13,7 @@ Essa planilha em Excel foi criada para ajudar no planejamento financeiro e simul
 - Projeções de crescimento em 2, 5, 10, 20 e 30 anos.
 - Sugestão de alocação de ativos conforme perfil (ex: conservador).
 - Divisão de investimentos em diferentes tipos de FIIs.
+- Simulação com aportes variáveis e cálculo automático de rendimento mensal composto.
 
 ---
 
@@ -26,7 +27,7 @@ Essa planilha em Excel foi criada para ajudar no planejamento financeiro e simul
 ## 📂 Download
 
 Você pode baixar a planilha clicando abaixo:  
-📎 [Planilha-Investimentos.xlsx](https://github.com/user-attachments/files/20523151/Planilha-Investimentos.xlsx)
+📎 [Planilha-Investimentos.xlsx](https://github.com/user-attachments/files/20523728/Planilha-Investimentos.xlsx)
 
 
 ---
